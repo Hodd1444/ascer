@@ -6,7 +6,7 @@ Ascer is a npm module to easily access the https://randomuser.me API and help yo
 
 `npm install ascer`
 
-# Examples
+# Example
 
 ```js
 const {getRandomUser} = require('ascer');
@@ -25,4 +25,9 @@ const {getRandomUser} = require('ascer');
 })();
 ```
 
-## Happy Coding!
+### Options
+
+`gender`: _'male' | 'female'_
+
+
+This is a very useless module I only created for myself but feel free to use it if you need!
