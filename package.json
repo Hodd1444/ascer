@@ -11,5 +11,14 @@
     "generation"
   ],
   "author": "Hodd",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hodd1444/ascer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hodd1444/ascer/issues"
+  },
+  "homepage": "https://github.com/Hodd1444/ascer#readme"
 }

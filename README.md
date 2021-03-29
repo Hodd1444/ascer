@@ -14,12 +14,12 @@ const {getRandomUser} = require('ascer');
 ( async () => {
 
     // Gets a random user and displays their first and last name
-    const user = getRandomUser();
+    const user = await getRandomUser();
     console.log(user.name.first + ' ' + user.name.last)
 
     // Gets a random male user and displays their first and last name
     // Gender options are 'male' and 'female'
-    const maleUser = getRandomUser({gender: 'male'});
+    const maleUser = await getRandomUser({gender: 'male'});
     console.log(maleUser.name.first + ' ' + maleUser.name.last)
 
 })();
