@@ -1,0 +1,15 @@
+{
+  "name": "ascer",
+  "version": "1.0.0",
+  "description": "Easily access the randomuser.me API",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "random",
+    "generation"
+  ],
+  "author": "Hodd",
+  "license": "MIT"
+}
