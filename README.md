@@ -1,6 +1,6 @@
 # What is ascer?
 
-Ascer is a npm module to easily access the https://randomuser.me API and help you make your code less cluttery
+Ascer is a npm module to easily access the https://randomuser.me API and help you make your code less cluttery (but tbh it is infact not very useful)
 
 # Installation
 
